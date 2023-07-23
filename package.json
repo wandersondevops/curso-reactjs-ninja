@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "react-ninja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^1.15.0",
+    "webpack-dev-server": "^1.16.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
